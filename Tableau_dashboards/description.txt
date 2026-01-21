@@ -1,0 +1,2 @@
+Four interactive dashboards have been covered which are data preprocessing of enrolment and biometric with demogrphaic seprated. Data analysis of each file has been done as well with multiple different charts including demogrpahic distribution.
+This helps with the insights along with the visual trends in the data provided. Data analytics dashboards visualizing enrolment trends, biometric and demographic activity, engineered features, and anomaly patterns across combined datasets.
